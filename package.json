@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
-  "proxy":"http://localhost:8080"
+  "proxy":"http://localhost:8080",
   "homepage": "http://ahfarmer.github.io/calculator",
   "devDependencies": {
     "chai": "^4.1.2",
